@@ -1,4 +1,10 @@
 # check the input is only is only two digits or not
+## I nput an integer x from keyboard, if x is a two digit number, output “yes”, otherwise output “no”. You may assume that 0 < x < 1 000.
+## Sample input 1: 99
+## Sample output 1: yes
+## Sample input 2: 100
+## Sample output 2: no
+
 
 ###### include<iostream>
 
